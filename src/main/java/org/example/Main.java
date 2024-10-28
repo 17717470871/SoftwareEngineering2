@@ -5,5 +5,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
             System.out.println("Hi,I am ZhangSan.I created a new program");
+            System.out.println("Hi,I am LiSi.I modified this program");
         }
     }
